@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches & Environment
+.pytest_cache/
+.vscode/
+.idea/
+*.swp
+
+# Virtual Environments
+venv/
+env/
+ENV/
+
+# Output data lokal yang tidak perlu masuk Git (opsional)
+data/hasil_analisis.txt
